@@ -22,7 +22,7 @@ The at_commons library will be used for commonly used components in implementati
 
 ### at_common_flutter
 
-A flutter package to provide common widgets used by other atsign flutter packages.
+A Flutter package to provide common widgets used by other @‎platform Flutter packages.
 
 [Learn more](https://pub.dev/packages/at_common_flutter)
 
@@ -76,13 +76,13 @@ Library for mobile app onboarding.
 
 ### at_contacts_flutter
 
-A flutter plugin project to provide ease of managing contacts for an atsign using atprotocol.
+A Flutter package to provide ease of managing contacts for an @sign using @platform.
 
 [Learn more](https://pub.dev/packages/at_contacts_flutter)
 
 ### at_chat_flutter
 
-A flutter plugin project to provide chat feature using atsigns and atprotocol.
+A Flutter package to provide chat feature between @signs using the @platform.
 
 [Learn more](https://pub.dev/packages/at_chat_flutter)
 
@@ -94,13 +94,13 @@ A library of data that contains demo enviroment variables and @sign credentials 
 
 ### at_contacts_group_flutter
 
-A flutter plugin project to provide the group functionality with contacts using atprotocol.
+A Flutter package to provide the group functionality with contacts using @protocol.
 
 [Learn more](https://pub.dev/packages/at_contacts_group_flutter)
 
 ### at_location_flutter
 
-A flutter plugin project to share location between two atsigns and track them on OSM (open street maps).
+A Flutter package to share location between two @signs and track them on OSM (open street maps).
 
 [Learn more](https://pub.dev/packages/at_location_flutter)
 
@@ -118,7 +118,7 @@ A Dart library for managing contact data that developers can use for their appli
 
 ### at_events_flutter
 
-A flutter plugin project to manage events using the atprotocol.
+A Flutter package to manage events (time, place and attendees) using the @platform.
 
 [Learn more](https://pub.dev/packages/at_events_flutter)
 

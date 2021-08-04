@@ -16,7 +16,7 @@ at_persistence_spec is the Specification for the persistence layer implementatio
 
 ### at_commons
 
-The at_commons library will be used for commonly used components in implementation of the @protocol.
+A library of Dart and Flutter utility classes that are used across other components of the @‎platform.
 
 [Learn more](https://pub.dev/packages/at_commons)
 

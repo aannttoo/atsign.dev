@@ -34,25 +34,25 @@ at_client is the Client SDK which provides the essential methods for building an
 
 ### at_lookup
 
-Library for executing at commands on a secondary server. Example - scan. update, lookup, llookup, plookup etc.
+A Dart library that contains the core commands that can be used with a secondary server (scan, update, lookup, llookup, plookup, etc.). This library is also used for building command line tools.
 
 [Learn more](https://pub.dev/packages/at_lookup)
 
 ### at_persistence_secondary_server
 
-at_persistence_secondary_server is the Persistence layer implementation for @protocol secondary server.
+A Dart library with the implementation classes for the persistence layer of the secondary server.
 
 [Learn more](https://pub.dev/packages/at_persistence_secondary_server)
 
 ### at_server_status
 
-The at_server_status library provides an easy means to check on the status of the @root server as well as the @server for a particular @sign.
+A Dart library that provides a means to check on the status of the @‎root server as well as the secondary server for any particular @‎sign.
 
 [Learn more](https://pub.dev/packages/at_server_status)
 
 ### at_utils
 
-This is the Utility library for @protocol projects. It contains utility classes for atsign, atmetadata, configuration and logger.
+A Dart library that contains various utility classes such as atSign, atmetadata, configuration, and logger.
 
 [Learn more](https://pub.dev/packages/at_utils)
 
@@ -137,7 +137,7 @@ A new flutter plugin project to integrate follows functionality for any @sign. P
 
 ### at_server_spec
 
-Specification for root and secondary server
+A Dart library containing abstract classes that defines what implementations of the root and secondary servers are responsible for.
 
 [Learn more](https://pub.dev/packages/at_server_spec)
 

@@ -131,7 +131,7 @@ binary-to-text encoding schemes that represent binary data in an unicode string 
 
 ### at_follows_flutter
 
-A new flutter plugin project to integrate follows functionality for any @sign. Provides list of followers, following and options to follow, unfollow any @sign.
+A Flutter plugin project that provides a basic social “follows” functionality for any @‎sign. Provides a list of @‎signs that follow you (followers) as well as the @‎signs that you follow (following) with the option to unfollow them.
 
 [Learn more](https://pub.dev/packages/at_follows_flutter)
 

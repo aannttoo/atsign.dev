@@ -64,7 +64,7 @@ A flutter plugin project for saving backup key of any @sign that is being onboar
 
 ### at_onboarding_flutter
 
-A flutter plugin project for onboarding any @sign in @protocol apps with ease. Provides QRscanner and upload key file option to authenticate.
+A Flutter plugin project for onboarding any @‎sign in @‎platform apps with ease. Provides a QRscanner option and an upload key file option to authenticate.
 
 [Learn more](https://pub.dev/packages/at_onboarding_flutter)
 
